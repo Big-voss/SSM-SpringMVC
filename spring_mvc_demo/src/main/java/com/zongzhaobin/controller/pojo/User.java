@@ -5,7 +5,7 @@ package com.zongzhaobin.controller.pojo;
  * @version V1.0
  * @creat 2022 0921 21:13
  */
-public class User {
+public class User{
     private Integer id;
     private String username;
     private String password;
